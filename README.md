@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-roman-damitie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Un Roman D'amitié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-roman-damitie/) |
+| **Get License** | [Music Rights & Licensing for Un Roman D'amitié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-roman-damitie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la brume de minuit, ton aura me fascine
+> Je perds un peu le nord, baby, tu es divine
+> Un jeu de séduction, un regard qui en dit long
+> Laisse le groove nous guider, perdre un peu la raison
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
