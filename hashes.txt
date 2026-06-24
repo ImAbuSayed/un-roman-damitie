@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Roman D'amitié
+
+This log tracks the cryptographic history and versioning for the song **Un Roman D'amitié** (un-roman-damitie).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T19:04:19.979800 | `v1` | `9f0dfa663761fceacdbcd2e4f10cf8755fbc12e56d5e34e413e615a03fcacbe2` | `6aec3c1ed23338e3102015cf71f0ba2f32b89e0ad980c56a3f0f647e151b3f9f` | `2026-06-24_un-roman-damitie-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

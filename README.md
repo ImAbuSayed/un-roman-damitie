@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-roman-damitie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Un Roman D'amitié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-roman-damitie/) |
+| **Get License** | [Get a Licensing Quote for Un Roman D'amitié](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-roman-damitie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4256)
 
 ---
 
@@ -110,7 +116,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f0dfa663761fceacdbcd2e4f10cf8755fbc12e56d5e34e413e615a03fcacbe2` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
